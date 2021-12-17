@@ -21,10 +21,11 @@ for fine-tuning.
 
 * _What dataset did you use?_ This is described in our preprint, but briefly, we used a section of the Observed Antibody
   Space (OAS) database (Kovaltsuk et al., 2018) for pre-training, and a snapshot of SAbDab (Dunbar et al., 2014) as of
-  26 August, 2021.
+  26 August, 2021. We've included snippets of the OAS database that we used for pre-training, and the paratope prediction
+  datasets under `assets`.
   
 * _Why HuggingFace?_ We felt that the maturity of the library and its straight-forward API were key advantages. Not to
 mention it fits really well with cloud compute architectures like AWS.
   
 * _Are pre-trained models available?_ We will not be releasing model weights to the public, though the code is licensed
-  under the MIT License.
+  under the Apache 2.0 License.
