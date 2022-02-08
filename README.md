@@ -26,6 +26,3 @@ for fine-tuning.
   
 * _Why HuggingFace?_ We felt that the maturity of the library and its straight-forward API were key advantages. Not to
 mention it fits really well with cloud compute architectures like AWS.
-
-* _Are pretrained models available?_ We will not be releasing pre-trained models. However the code is available via the
-Apache-2.0 license.
