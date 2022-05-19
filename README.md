@@ -19,7 +19,7 @@ for fine-tuning.
 
 ## FAQs
 
-* _What dataset did you use?_ This is described in our preprint, but briefly, we used a section of the Observed Antibody
+* _What dataset did you use?_ This is described in our [paper](https://t.co/lzeqiueNSh), but briefly, we used a section of the Observed Antibody
   Space (OAS) database (Kovaltsuk et al., 2018) for pre-training, and a snapshot of SAbDab (Dunbar et al., 2014) as of
   26 August, 2021. We've included small snippets of the OAS database that we used for pre-training, and the paratope
   prediction datasets under `assets`.
